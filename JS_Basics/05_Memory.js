@@ -9,7 +9,7 @@ let myYoutubeName = "Ashutosh21"
 let anotherName = myYoutubeName
 //console.log(anotherName)
 anotherName ="Rakesh34"
-//console.log(anotherName)  // now the value will change as is it just copying the previous value
+//console.log(anotherName)  // now the value will change as is it just copying th e previous value
 //console.log(myYoutubeName) // will return the same as initialised
 
 
